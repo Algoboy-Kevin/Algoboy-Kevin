@@ -5,4 +5,4 @@ Hello! I'm [Kevin Gamaliel](https://www.linkedin.com/in/kevingamaliel/), Decentr
 * 👨‍💻 **AI/Machine Learning** - Since 2020, working in data related project has been my passion. Using python and tensorflow
 
 ### Staying in touch
-You can message me on linked in. Right
+Fell free to connect. You can message me on [LinkedIn](https://www.linkedin.com/in/kevingamaliel/). I'm open for challenging and creative Decentralized Finance projects only.
