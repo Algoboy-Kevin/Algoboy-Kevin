@@ -3,6 +3,7 @@ Hello! I'm [Kevin Gamaliel](https://www.linkedin.com/in/kevingamaliel/), Decentr
 * 👨‍💻 **Software Development** - I enjoy software development in general, from backend to front end. I tackle most of the challenge using Javascript and its awesome libraries.
 * 💻 **Decentralized Finance** - I've been hired as an engineer for various web3 projects. My background in AI/Machine learning really helps me solves most of defi problems here.
 * 🤖 **AI/Machine Learning** - Since 2020, working in data related project has been my passion. Using python and tensorflow to build forex trading bots.
+* 📚 **Currently Learning** - GO Lang for GRPC and microservice, Advanced Math for Bit Operation and Cryptography, and Finance Risk Analysis
 
 ### Staying in touch
 Feel free to connect. You can message me on [LinkedIn](https://www.linkedin.com/in/kevingamaliel/). I'm keen to join in any interesting Defi projects, please let me know.
