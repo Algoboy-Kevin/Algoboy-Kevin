@@ -6,4 +6,4 @@ Hello! I'm [Kevin Gamaliel](https://www.linkedin.com/in/kevingamaliel/), Decentr
 * 📚 **Currently Learning** - GO Lang for GRPC and microservice, Advanced Math for Bit Operation and Cryptography, and Finance Risk Analysis
 
 ### Staying in touch
-Feel free to connect. You can message me on [LinkedIn](https://www.linkedin.com/in/kevingamaliel/). I'm keen to join in any interesting Defi projects, please let me know.
+Feel free to connect. You can message me on [LinkedIn](https://www.linkedin.com/in/kevingamaliel/).
